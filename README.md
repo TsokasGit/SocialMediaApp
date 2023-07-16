@@ -1,4 +1,4 @@
-A complete social media app made with React Native - Expo.
+A complete realtime-social media app made with React Native - Expo hosted on Google's Firebase.
 
 It is accessible and runs on both Android and IOS.
 
